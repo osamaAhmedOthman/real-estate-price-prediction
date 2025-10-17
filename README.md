@@ -88,5 +88,5 @@ The trained Gradient Boosting model is saved as: **model/gradient_boosting_model
 ## 👨‍💻 Author  
 **Osama Othman**  
 📧 [osmanosamaahmed@gmail.com]  
-💼 [LinkedIn Profile](www.linkedin.com/in/osama-othman-a78141368)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/osama-othman-a78141368)  
 🌐 [GitHub Profile](https://github.com/osamaAhmedOthman)  
