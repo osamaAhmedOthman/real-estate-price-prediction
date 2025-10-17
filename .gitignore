@@ -1,0 +1,21 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Python cache and virtual envs
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Ignore model checkpoints and logs
+*.pkl
+*.h5
+*.log
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore temp or output folders
+temp/
+outputs/
